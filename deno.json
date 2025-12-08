@@ -1,0 +1,18 @@
+{
+  "tasks": {
+    "dev": "deno run -P=dev sanity dev"
+  },
+  "permissions": {
+    "dev": {
+      "env": true,
+      "read": true,
+      "sys": true,
+      "ffi": true,
+      "write": ["."],
+      "net": true,
+      "run": true
+    }
+  },
+  "nodeModulesDir": "auto",
+  "exclude": ["./dist"]
+}
