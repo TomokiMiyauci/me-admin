@@ -19,14 +19,29 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: sanity-io/github-action-sanity@v0.8-alpha
+      - uses: denoland/setup-deno@v2
+        with:
+          cache: true
+
+      - run: deno install
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - run: npx sanity deploy
         env:
           SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
           SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
-        with:
-          args: sanity deploy
+
+      - run: npx sanity graphql deploy
+        env:
+          SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
+          SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
+          SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
+          SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
 
   deploy-production:
     # needs: build
@@ -43,6 +58,5 @@ jobs:
           SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
-          SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
         with:
           args: deploy
