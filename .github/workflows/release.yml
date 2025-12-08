@@ -26,7 +26,7 @@ jobs:
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
           SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
         with:
-          args: deploy
+          args: npx sanity deploy
 
   deploy-production:
     # needs: build
