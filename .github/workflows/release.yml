@@ -23,6 +23,8 @@ jobs:
         with:
           cache: true
 
+      - run: deno install
+
       - uses: actions/setup-node@v6
         with:
           node-version: 24
