@@ -34,6 +34,7 @@ jobs:
           SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
+          SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
 
   deploy-production:
     # needs: build
