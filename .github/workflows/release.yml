@@ -1,0 +1,46 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  # test:
+  #   uses: ./.github/workflows/test.yml
+  # build:
+  #   uses: ./.github/workflows/build.yml
+
+  deploy-staging:
+    # needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: staging
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: sanity-io/github-action-sanity@v0.8-alpha
+        env:
+          SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
+          SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
+          SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
+        with:
+          args: deploy
+
+  deploy-production:
+    # needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: sanity-io/github-action-sanity@v0.8-alpha
+        env:
+          SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
+          SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
+          SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
+        with:
+          args: deploy
