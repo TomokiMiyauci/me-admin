@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@sanity/cli": "^4.20.3",
     "@sanity/code-input": "^6.0.3",
     "@sanity/document-internationalization": "^4.1.0",
     "@sanity/vision": "^4.20.3",
