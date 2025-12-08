@@ -19,13 +19,16 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: sanity-io/github-action-sanity@v0.7-alpha
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: 'npm'
+
+      - run: npx sanity deploy
         env:
           SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
-        with:
-          args: deploy
 
   deploy-production:
     # needs: build
