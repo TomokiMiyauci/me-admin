@@ -34,7 +34,7 @@ export default defineConfig({
     }),
     documentInternationalization({
       supportedLanguages: languages,
-      schemaTypes: ["post.page", "category"],
+      schemaTypes: ["post", "category"],
     }),
     codeInput(),
   ],

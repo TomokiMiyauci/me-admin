@@ -1,5 +1,6 @@
 import { defineArrayMember, defineField, defineType } from "sanity";
 import { displayInternationalizedArrayString } from "../utils/i18n.ts";
+import slugify from "github-slugid";
 
 export default defineType({
   name: "post",
@@ -26,6 +27,12 @@ export default defineType({
       name: "slug",
       type: "slug",
       validation: (rule) => rule.required(),
+      options: {
+        source: "title",
+        slugify: (input) => {
+          return slugify(input);
+        },
+      },
     }),
     defineField({
       name: "authors",
@@ -91,6 +98,12 @@ export default defineType({
     defineField({
       name: "updatedAt",
       type: "datetime",
+    }),
+    defineField({
+      name: "language",
+      type: "string",
+      readOnly: true,
+      hidden: true,
     }),
   ],
 
