@@ -4,19 +4,15 @@ on:
       - main
 
 jobs:
-  # test:
-  #   uses: ./.github/workflows/test.yml
-  # build:
-  #   uses: ./.github/workflows/build.yml
-
   deploy:
     runs-on: ubuntu-latest
     strategy:
       matrix:
         include:
           - environment: staging
+            prod: false
           - environment: production
-
+            prod: true    
     environment:
       name: ${{ matrix.environment }}
     permissions:
@@ -34,16 +30,21 @@ jobs:
         with:
           node-version: 24
 
-      - run: npx sanity deploy
+      - run: npm run build
         env:
-          SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
-          SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
+
+      - run: |
+          deno deploy \
+            --org=${{ vars.DENO_DEPLOY_ORG }} \
+            --app=${{ vars.DENO_DEPLOY_APP }} \
+            --token=${{ secrets.DENO_DEPLOY_TOKEN }} \
+            ${{ matrix.prod && '--prod' || '' }} \
+            dist
 
       - run: npx sanity graphql deploy
         env:
           SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
           SANITY_STUDIO_DATASET: ${{ vars.SANITY_STUDIO_DATASET }}
-          SNAITY_APP_ID: ${{ vars.SNAITY_APP_ID }}
