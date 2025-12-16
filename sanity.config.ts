@@ -2,7 +2,7 @@
 import { defineConfig } from "sanity";
 import { structureTool } from "sanity/structure";
 import { visionTool } from "@sanity/vision";
-import { schemaTypes } from "./src/schema_types/mod.ts";
+import schemaTypes from "./src/schema_types/mod.ts";
 // import { SANITY_DATASET, SANITY_ID } from "@/env.ts";
 import {
   internationalizedArray,

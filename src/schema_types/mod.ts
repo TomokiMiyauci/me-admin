@@ -6,7 +6,7 @@ import author from "./author.ts";
 import postPage from "./post_page.ts";
 import policy from "./policy.ts";
 
-export const schemaTypes = [
+export default [
   post,
   author,
   category,

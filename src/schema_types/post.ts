@@ -3,9 +3,13 @@ import { displayInternationalizedArrayString } from "../utils/i18n.ts";
 
 export default defineType({
   name: "post",
-  type: "object",
+  type: "document",
   fields: [
-    defineField({ name: "title", type: "string" }),
+    defineField({
+      name: "title",
+      type: "string",
+      validation: (rule) => rule.required(),
+    }),
     defineField({ name: "description", type: "string" }),
     defineField({ name: "body", type: "bodyContent" }),
     defineField({
@@ -17,6 +21,11 @@ export default defineType({
           type: "string",
         }),
       ],
+    }),
+    defineField({
+      name: "slug",
+      type: "slug",
+      validation: (rule) => rule.required(),
     }),
     defineField({
       name: "authors",
