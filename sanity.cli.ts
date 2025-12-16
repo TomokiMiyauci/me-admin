@@ -1,3 +1,4 @@
+// deno-lint-ignore-file no-process-global
 import { defineCliConfig } from "@sanity/cli";
 
 export default defineCliConfig({
