@@ -3,7 +3,6 @@ import { defineConfig } from "sanity";
 import { structureTool } from "sanity/structure";
 import { visionTool } from "@sanity/vision";
 import schemaTypes from "./src/schema_types/mod.ts";
-// import { SANITY_DATASET, SANITY_ID } from "@/env.ts";
 import {
   internationalizedArray,
   type Language,
@@ -12,7 +11,6 @@ import { documentInternationalization } from "@sanity/document-internationalizat
 import { i18n, localeMap } from "./src/language.ts";
 // import { media } from "sanity-plugin-media";
 import { codeInput } from "@sanity/code-input";
-// import process from "node:process";
 
 function toLanguages(map: Record<string, string>): Language[] {
   return Object.entries(map).map(([id, title]) => ({ id, title }));
@@ -34,7 +32,7 @@ export default defineConfig({
     }),
     documentInternationalization({
       supportedLanguages: languages,
-      schemaTypes: ["post", "category"],
+      schemaTypes: ["post", "category", "tag"],
     }),
     codeInput(),
   ],
