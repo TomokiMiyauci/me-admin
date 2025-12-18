@@ -1,5 +1,9 @@
-import { defineArrayMember, defineField, defineType } from "sanity";
-import { displayInternationalizedArrayString } from "../utils/i18n.ts";
+import {
+  defineArrayMember,
+  defineField,
+  defineType,
+  ReferenceFilterResolver,
+} from "sanity";
 import slugify from "github-slugid";
 
 export default defineType({
@@ -42,20 +46,7 @@ export default defineType({
           type: "reference",
           to: { type: "author" },
           options: {
-            "filter": ({ document }) => {
-              const language = document["language"];
-
-              if (typeof language === "string") {
-                return {
-                  filter: "language == $language",
-                  params: {
-                    language,
-                  },
-                };
-              }
-
-              return {};
-            },
+            filter: createLanguageFilter(),
           },
         }),
       ],
@@ -68,20 +59,7 @@ export default defineType({
           type: "reference",
           to: { type: "category" },
           options: {
-            "filter": ({ document }) => {
-              const language = document["language"];
-
-              if (typeof language === "string") {
-                return {
-                  filter: "language == $language",
-                  params: {
-                    language,
-                  },
-                };
-              }
-
-              return {};
-            },
+            filter: createLanguageFilter(),
           },
         }),
       ],
@@ -89,7 +67,13 @@ export default defineType({
     defineField({
       name: "tags",
       type: "array",
-      of: [{ type: "reference", to: { type: "tag" } }],
+      of: [{
+        type: "reference",
+        to: { type: "tag" },
+        options: {
+          filter: createLanguageFilter(),
+        },
+      }],
     }),
     defineField({
       name: "createdAt",
@@ -108,11 +92,23 @@ export default defineType({
   ],
 
   preview: {
-    select: { title: "title" },
-    prepare(selection): Record<string, string> {
-      return {
-        title: displayInternationalizedArrayString(selection.title),
-      };
-    },
+    select: { title: "title", subtitle: "slug.current" },
   },
 });
+
+function createLanguageFilter(): ReferenceFilterResolver {
+  return (ctx) => {
+    const language = ctx.document["language"];
+
+    if (typeof language === "string") {
+      return {
+        filter: "language == $language",
+        params: {
+          language,
+        },
+      };
+    }
+
+    return {};
+  };
+}

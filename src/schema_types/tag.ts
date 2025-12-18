@@ -1,5 +1,4 @@
 import { defineField, defineType } from "sanity";
-import { displayInternationalizedArrayString } from "../utils/i18n.ts";
 
 export default defineType({
   name: "tag",
@@ -7,19 +6,20 @@ export default defineType({
   fields: [
     defineField({
       name: "name",
-      type: "internationalizedArrayString",
+      type: "string",
+      validation: (rule) => rule.required(),
     }),
+    defineField({ name: "description", type: "string" }),
+    defineField({ name: "slug", type: "slug" }),
     defineField({
-      name: "description",
-      type: "internationalizedArrayString",
+      name: "language",
+      type: "string",
+      readOnly: true,
+      hidden: true,
+      validation: (rule) => rule.required(),
     }),
   ],
   preview: {
     select: { title: "name" },
-    prepare(selection): Record<string, string> {
-      return {
-        title: displayInternationalizedArrayString(selection.title),
-      };
-    },
   },
 });
