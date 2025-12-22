@@ -4,7 +4,7 @@ import {
   defineType,
   ReferenceFilterResolver,
 } from "sanity";
-import slugify from "github-slugid";
+import { isUniqueOtherThanLanguage } from "../utils/validation.ts";
 
 export default defineType({
   name: "post",
@@ -33,9 +33,7 @@ export default defineType({
       validation: (rule) => rule.required(),
       options: {
         source: "title",
-        slugify: (input) => {
-          return slugify(input);
-        },
+        isUnique: isUniqueOtherThanLanguage,
       },
     }),
     defineField({
@@ -88,6 +86,7 @@ export default defineType({
       type: "string",
       readOnly: true,
       hidden: true,
+      validation: (rule) => rule.required(),
     }),
   ],
 
