@@ -3,7 +3,6 @@ import category from "./category.ts";
 import tag from "./tag.ts";
 import post from "./post.ts";
 import author from "./author.ts";
-import policy from "./policy.ts";
 import legalDocument from "./legal_document.ts";
 
 export default [
@@ -12,6 +11,5 @@ export default [
   category,
   tag,
   blockContent,
-  policy,
   legalDocument,
 ];
