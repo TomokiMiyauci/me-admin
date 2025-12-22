@@ -43,7 +43,7 @@ jobs:
             ${{ matrix.prod && '--prod' || '' }} \
             dist
 
-      - run: npx sanity graphql deploy
+      - run: npx sanity graphql deploy --force
         env:
           SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
           SANITY_STUDIO_ID: ${{ vars.SANITY_STUDIO_ID }}
