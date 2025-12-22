@@ -1,23 +1,20 @@
 {
   "version": "5",
   "specifiers": {
-    "npm:@sanity/cli@^4.21.1": "4.21.1_react@19.2.3_esbuild@0.27.0",
-    "npm:@sanity/code-input@^6.0.3": "6.0.3_react@19.2.3_react-dom@19.2.3__react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@codemirror+language@6.11.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_@codemirror+autocomplete@6.20.0_@codemirror+search@6.5.11_@types+react@19.2.7",
-    "npm:@sanity/document-internationalization@^4.1.0": "4.1.0_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7",
-    "npm:@sanity/vision@^4.21.1": "4.21.1_react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_rxjs@7.8.2_@codemirror+autocomplete@6.20.0_@codemirror+language@6.11.3_@codemirror+search@6.5.11",
+    "npm:@sanity/cli@5": "5.0.0_react@19.2.3_esbuild@0.27.0",
+    "npm:@sanity/code-input@^6.0.3": "6.0.3_react@19.2.3_react-dom@19.2.3__react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@codemirror+language@6.11.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_@codemirror+autocomplete@6.20.0_@codemirror+search@6.5.11_@types+react@19.2.7",
+    "npm:@sanity/document-internationalization@^4.1.0": "4.1.0_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7",
+    "npm:@sanity/vision@5": "5.0.0_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_rxjs@7.8.2_@codemirror+autocomplete@6.20.0_@codemirror+language@6.11.3_@codemirror+search@6.5.11_@types+react@19.2.7",
     "npm:@types/react-dom@^19.2.3": "19.2.3_@types+react@19.2.7",
     "npm:@types/react@^19.2.7": "19.2.7",
     "npm:github-slugid@^1.0.1": "1.0.1",
     "npm:react-dom@^19.2.3": "19.2.3_react@19.2.3",
     "npm:react@^19.2.3": "19.2.3",
-    "npm:sanity-plugin-internationalized-array@^3.2.1": "3.2.1_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7",
-    "npm:sanity@^4.21.1": "4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+    "npm:sanity-plugin-internationalized-array@^3.2.1": "3.2.1_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7",
+    "npm:sanity@5": "5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
     "npm:styled-components@^6.1.19": "6.1.19_react@19.2.3_react-dom@19.2.3__react@19.2.3"
   },
   "npm": {
-    "@acemir/cssom@0.9.25": {
-      "integrity": "sha512-ZWKTnGx+py7q6W3Q1q7+ZOW0GLuhgaxjBRMytOxYu5CQwIF6YCu5iCgY7NzuTt+DkpAa4jqKfvxANuCBWTzdVg=="
-    },
     "@actions/core@1.11.1": {
       "integrity": "sha512-hXJCSrkwfA46Vd9Z3q4cpEpHB1rL5NG04+/rbqW9d3+CSvtB1tYe8UTpAlixa1vj0m/ULglfEK2UKxMGxCxv5A==",
       "dependencies": [
@@ -99,29 +96,6 @@
         "@csstools/css-tokenizer",
         "lru-cache@10.4.3"
       ]
-    },
-    "@asamuzakjp/css-color@4.1.0_@csstools+css-parser-algorithms@3.0.5__@csstools+css-tokenizer@3.0.4_@csstools+css-tokenizer@3.0.4": {
-      "integrity": "sha512-9xiBAtLn4aNsa4mDnpovJvBn72tNEIACyvlqaNJ+ADemR+yeMJWnBudOi2qGDviJa7SwcDOU/TRh5dnET7qk0w==",
-      "dependencies": [
-        "@csstools/css-calc",
-        "@csstools/css-color-parser",
-        "@csstools/css-parser-algorithms",
-        "@csstools/css-tokenizer",
-        "lru-cache@11.2.4"
-      ]
-    },
-    "@asamuzakjp/dom-selector@6.7.5": {
-      "integrity": "sha512-Eks6dY8zau4m4wNRQjRVaKQRTalNcPcBvU1ZQ35w5kKRk1gUeNCkVLsRiATurjASTp3TKM4H10wsI50nx3NZdw==",
-      "dependencies": [
-        "@asamuzakjp/nwsapi",
-        "bidi-js",
-        "css-tree",
-        "is-potential-custom-element-name",
-        "lru-cache@11.2.4"
-      ]
-    },
-    "@asamuzakjp/nwsapi@2.3.9": {
-      "integrity": "sha512-n8GuYSrI9bF7FFZ/SjhwevlHc8xaVlb/7HmHelnc/PZXBD2ZR49NnN9sMMuDdEGPeeRQ5d0hqlSlEpgCX3Wl0Q=="
     },
     "@aws-lite/client@0.21.10": {
       "integrity": "sha512-fOn3lg1ynBAxqcELRf084bNJ6gu+GGoNyC+hwitW/hg3Vc1z1ZbK5HWWTrDw8HdM/fEQ0UN++g7GXVN1GVctdQ==",
@@ -1190,9 +1164,6 @@
         "@csstools/css-tokenizer"
       ]
     },
-    "@csstools/css-syntax-patches-for-csstree@1.0.20": {
-      "integrity": "sha512-8BHsjXfSciZxjmHQOuVdW2b8WLUPts9a+mfL13/PzEviufUEW2xnvQuOlKs9dRBHgRqJ53SF/DUoK9+MZk72oQ=="
-    },
     "@csstools/css-tokenizer@3.0.4": {
       "integrity": "sha512-Vd/9EVDiu6PPJt9yAh6roZP6El1xHrdvIVGjyBsHR0RYwNHgL7FJPyIIW4fANJNG6FtyZfvlRPpFI4ZM/lubvw=="
     },
@@ -2117,11 +2088,11 @@
       "dependencies": [
         "@portabletext/sanity-bridge",
         "@portabletext/schema",
-        "@sanity/types@4.21.1_@types+react@19.2.7"
+        "@sanity/types@4.22.0_@types+react@19.2.7"
       ]
     },
-    "@portabletext/editor@3.3.13_@portabletext+sanity-bridge@1.2.14__@types+react@19.2.7_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_xstate@5.24.0_slate@0.120.0_react-dom@19.2.3__react@19.2.3_slate-dom@0.119.0__slate@0.120.0": {
-      "integrity": "sha512-iJJjM9NAT6ijF13dORkd8Cwk7cZ9FVx+tcpCDKaIG67+s9AntpIZYorTBvhSFYMQUGVs1pTPDjO/RQrR01RenQ==",
+    "@portabletext/editor@3.3.16_@portabletext+sanity-bridge@1.2.14__@types+react@19.2.7_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_xstate@5.25.0_slate@0.120.0_react-dom@19.2.3__react@19.2.3_slate-dom@0.119.0__slate@0.120.0": {
+      "integrity": "sha512-Z+/HXuOf1zwDpwp54uR9lsQtJ0tak5rr/9FgwObjUB1LAPNZm8IUezfQO56U3gvoQSZ7Rhj5/+BC+6hnnAKfyw==",
       "dependencies": [
         "@portabletext/block-tools",
         "@portabletext/keyboard-shortcuts",
@@ -2130,8 +2101,8 @@
         "@portabletext/sanity-bridge",
         "@portabletext/schema",
         "@portabletext/to-html",
-        "@sanity/schema",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
+        "@sanity/schema@4.22.0_@types+react@19.2.7",
+        "@sanity/types@4.22.0_@types+react@19.2.7",
         "@xstate/react",
         "debug@4.4.3",
         "react",
@@ -2146,8 +2117,8 @@
     "@portabletext/keyboard-shortcuts@2.1.1": {
       "integrity": "sha512-9qD9xk1jG/vP5O6Ab33IL7HW0bDhJ/lTkOyeq6EDnJAqVcnaZ0mw/nBVbW+2gH5DTLVJFNJ35N/24kXHFnkEXA=="
     },
-    "@portabletext/markdown@1.0.7": {
-      "integrity": "sha512-8geSV5vKXsnkC010JMQ3ayi5DoWSW5YtUgGSRpyQvx0KS+gpNEgLOeqBunrnceYJZumkkeaYcDG1MyT9xozQHQ==",
+    "@portabletext/markdown@1.1.1": {
+      "integrity": "sha512-XUnqjQ5qB4mSyN1o0Y+chKE1pbrUWe1zQp2awLpbvrVjS/9AfK3UWj9GlRSVAsinYdqZuOB3/BiZkB415bxcRw==",
       "dependencies": [
         "@portabletext/schema",
         "@portabletext/toolkit",
@@ -2160,8 +2131,8 @@
         "@sanity/diff-match-patch"
       ]
     },
-    "@portabletext/plugin-character-pair-decorator@4.0.33_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_xstate@5.24.0_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
-      "integrity": "sha512-cUYMkgfpZjG2pKSreROTZbczKWND7NX3mvRQeGBGW9CqmBGxLFLTPA2ULiRDndzEb7Qkygff7s5TDNbTPpa6EA==",
+    "@portabletext/plugin-character-pair-decorator@4.0.36_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_xstate@5.25.0_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
+      "integrity": "sha512-rFCjJC7GwXGS/NuPXSVdIE09QONnt4dPXHJh0K2kFix2r2nLCuwJgfOWd1iefxgNtgyQ4X6RDhkQ7hNH7b82Ng==",
       "dependencies": [
         "@portabletext/editor",
         "@xstate/react",
@@ -2171,8 +2142,8 @@
         "xstate"
       ]
     },
-    "@portabletext/plugin-input-rule@1.0.33_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_xstate@5.24.0_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
-      "integrity": "sha512-uAtAeCtJVSVJNy8jmUQTg7IwcEdMncfXBG77uEWUegSzNtFmmbOYMNmnq6+aMwB03ngKJ1tTaJRcCnHnpcX8nw==",
+    "@portabletext/plugin-input-rule@1.0.36_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_xstate@5.25.0_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
+      "integrity": "sha512-x1/EqP8BNjEeaWMWirTeyk3+VzPr8VQjwrssRDkkFFANID05HCiywPosTTkMi2PT0zqlb0unvT52ZB+7Mo5CjA==",
       "dependencies": [
         "@portabletext/editor",
         "@xstate/react",
@@ -2181,8 +2152,8 @@
         "xstate"
       ]
     },
-    "@portabletext/plugin-markdown-shortcuts@4.0.33_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
-      "integrity": "sha512-gZYUF/rNAjGGzznc2k5370ROj3jUnzfL2JIlRVZTXkqTCPZsT/YkGZSEdvqejI2Wmi60Gto/2y2+sa+4UYRQkw==",
+    "@portabletext/plugin-markdown-shortcuts@4.0.36_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
+      "integrity": "sha512-mQ3rQoRoS0MweQlFngHeiHLkRmszlksEgCQullP7vd/O62kqjh3put5JUbi2YWVMjG1M9OlbH+oA7wZ9ksN5Zg==",
       "dependencies": [
         "@portabletext/editor",
         "@portabletext/plugin-character-pair-decorator",
@@ -2191,16 +2162,16 @@
         "react-compiler-runtime"
       ]
     },
-    "@portabletext/plugin-one-line@3.0.33_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
-      "integrity": "sha512-fKqPPz2fw1JyUCN9ZU7RfYcnuoKuY8BkiyY7sAuAkRFS/sS7dcY2Rw66twA42gAqWysuqtiWvN3m80L0sStfYA==",
+    "@portabletext/plugin-one-line@3.0.36_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
+      "integrity": "sha512-+BMRtWUk2Sy9wgYbLHOc5kaTHbqpoJwft59UpjYAwCQ7wy/vrWruLEAzKYWiPzYMraSwuFBpnskGUiuuY3gITw==",
       "dependencies": [
         "@portabletext/editor",
         "react",
         "react-compiler-runtime"
       ]
     },
-    "@portabletext/plugin-typography@4.0.33_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
-      "integrity": "sha512-2xMkpVxVmhgqLsm9Ot/be+cJRleKzfqh7eQNrejgXb4xZOCKrjjxRLGV0bE8GL2z6c6sszGo4dRDFHV/UlFB/Q==",
+    "@portabletext/plugin-typography@4.0.36_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_react@19.2.3_rxjs@7.8.2_@types+react@19.2.7_react-dom@19.2.3__react@19.2.3": {
+      "integrity": "sha512-X42ZEDUEK/bUpZ1N7pERBtemdekpR1lV36vxhCL3iDw2b7DqHDlVbpdzQ4FFYC7Kb/B8pt8RXUIEHbtr8/2zaQ==",
       "dependencies": [
         "@portabletext/editor",
         "@portabletext/plugin-input-rule",
@@ -2220,12 +2191,12 @@
       "integrity": "sha512-Is4ggV86dEMm1XjTJVLswsCeWobJm5E61T9jzm64eyr9d25oVEr9lqskxPuXemap6m9t3lnKDln/Ey/qEaAeCw==",
       "dependencies": [
         "@portabletext/schema",
-        "@sanity/schema",
-        "@sanity/types@4.21.1_@types+react@19.2.7"
+        "@sanity/schema@4.22.0_@types+react@19.2.7",
+        "@sanity/types@4.22.0_@types+react@19.2.7"
       ]
     },
-    "@portabletext/schema@2.1.0": {
-      "integrity": "sha512-wtTYmMslVZFlONd5Ncm8wpb3MChw6s5w73icPHPZBHd+TTJn0lMGuROHhE+9XEQuD7Ly465ooH+7T/k2eQVxHg=="
+    "@portabletext/schema@2.1.1": {
+      "integrity": "sha512-cH5ZleN0nw3W7xYBvOfMoAhGdkz6XFGhk0yuXcAZX9rwrtWb6qfQVLcieGC5tmIsrDFjQeVMro64vIFg5tz6vA=="
     },
     "@portabletext/to-html@5.0.0": {
       "integrity": "sha512-XNr/yCS1yvcfx/rsGz82yxGtdBjqXcB0SFU5ci10M/o6BxexNTMPnLshopJgDxLQ1y0kLQBiYHUN+vbQtKqcKA==",
@@ -2387,8 +2358,8 @@
     "@sanity/blueprints@0.7.0": {
       "integrity": "sha512-s83JaMnRcgkZJdDLIxRht5YTwhxEDRh9CWTiIJcMGQnG1ZjU0ttD8muAXuGbWEyQGzhTXyC6e7RbSywsgFzirQ=="
     },
-    "@sanity/cli@4.21.1_react@19.2.3_esbuild@0.27.0": {
-      "integrity": "sha512-Nf2/SdMTcLWyfxHsdmTX79Tqm0OTYQDsr/qKOC/Oel780expStZSba4xidu4PgZU61SuHa9qRizxhgV+mu20wA==",
+    "@sanity/cli@5.0.0_react@19.2.3_esbuild@0.27.0": {
+      "integrity": "sha512-fQToeiedH7AdbSpC2Yl4xa8H8EaG4Fm9maQaxGLnm/LmkU7KQqTvc5HP7XpXcuLxLoMLj3kQzGw6VLJw91hS/w==",
       "dependencies": [
         "@babel/parser",
         "@babel/traverse",
@@ -2397,13 +2368,13 @@
         "@sanity/runtime-cli",
         "@sanity/telemetry",
         "@sanity/template-validator",
+        "@sanity/worker-channels",
         "chalk@4.1.2",
         "debug@4.4.3",
         "esbuild@0.27.0",
         "esbuild-register",
         "get-it",
         "get-latest-version",
-        "groq-js",
         "pkg-dir@5.0.0",
         "prettier",
         "semver@7.7.3"
@@ -2419,7 +2390,7 @@
         "rxjs"
       ]
     },
-    "@sanity/code-input@6.0.3_react@19.2.3_react-dom@19.2.3__react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@codemirror+language@6.11.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_@codemirror+autocomplete@6.20.0_@codemirror+search@6.5.11_@types+react@19.2.7": {
+    "@sanity/code-input@6.0.3_react@19.2.3_react-dom@19.2.3__react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@codemirror+language@6.11.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_@codemirror+autocomplete@6.20.0_@codemirror+search@6.5.11_@types+react@19.2.7": {
       "integrity": "sha512-XLD3TPw1b/c5rjQJtpH11WH8uE8G1xr9tK8Bd3P8bc2iN9uwzZ6CFCPA6+pqrRlShRXhhKHkP/GR48JVIaEitw==",
       "dependencies": [
         "@codemirror/autocomplete",
@@ -2440,17 +2411,17 @@
         "@lezer/highlight",
         "@sanity/icons",
         "@sanity/incompatible-plugin",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "@uiw/codemirror-themes",
         "@uiw/react-codemirror",
         "react",
         "react-dom",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
         "styled-components"
       ]
     },
-    "@sanity/codegen@4.21.1_@babel+core@7.28.5": {
-      "integrity": "sha512-8xbzXl/BPESwQv97pq9/p6t0dLEp16m/DDQLWnbTEHmkgucWaBNvVzFYPhRfysdbE3tt7e7vZNbRQQPewEyANw==",
+    "@sanity/codegen@5.0.0_@babel+core@7.28.5": {
+      "integrity": "sha512-k/WEiG3qLyiP0lsrAKMGe6F5Q9BNM+++RXCbP8J2gTJ35Pc2Pda93UF/fPXpUpkakUG3mg14mLonWazDpekSrQ==",
       "dependencies": [
         "@babel/core",
         "@babel/generator",
@@ -2460,11 +2431,13 @@
         "@babel/register",
         "@babel/traverse",
         "@babel/types",
+        "@sanity/worker-channels",
         "debug@4.4.3",
         "globby",
-        "groq@4.21.1",
+        "groq@5.0.0",
         "groq-js",
         "json5",
+        "reselect",
         "tsconfig-paths",
         "zod"
       ]
@@ -2517,23 +2490,23 @@
         "@sanity/diff-match-patch"
       ]
     },
-    "@sanity/diff@4.21.1": {
-      "integrity": "sha512-hlRGuu6kdX3Jnju+dbF/NOKqFa0P94+1r8Is9M3KfFtXMYgXLGtNqcSAka3yCcKcwXgzLVCz4H4mFwNL4YQ+zg==",
+    "@sanity/diff@5.0.0": {
+      "integrity": "sha512-hRC24lSZjdfZ+opCA5JyLpAYucr2JlvDAMn3sa3BpVHdkAibwJ4ItH/Dw08EKtnCTFcqugZ1lKvvvWYTf8dwHg==",
       "dependencies": [
         "@sanity/diff-match-patch"
       ]
     },
-    "@sanity/document-internationalization@4.1.0_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
+    "@sanity/document-internationalization@4.1.0_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
       "integrity": "sha512-t7/RUpkIoZ5GWfDkR25RYj1FpofzUVqKwWUz7M68og8CeGCD0euxvNT83mENwBUKdVmHU4DQj7vAeKRiaknZAg==",
       "dependencies": [
         "@sanity/icons",
         "@sanity/incompatible-plugin",
         "@sanity/mutator@3.99.0_@types+react@19.2.7",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "@sanity/uuid",
         "react",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
-        "sanity-plugin-internationalized-array@3.2.1_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+        "sanity-plugin-internationalized-array@3.2.1_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7",
         "sanity-plugin-utils",
         "styled-components"
       ]
@@ -2547,15 +2520,14 @@
         "eventsource@2.0.2"
       ]
     },
-    "@sanity/export@5.0.1": {
-      "integrity": "sha512-ATHXvRNup6mTYYxlGXvJpzAodx1GuXfNcIdxy027LmAKPRoUExwp7rg2yfU/Nxu0gvpfeDbUPneJ2H5gPQmNWg==",
+    "@sanity/export@6.0.2": {
+      "integrity": "sha512-CUA7jd4MAv+4BvDt+ZvUi4A4dX/M1/DjNCW8euWlkzgRvMF0lEbO4hBCcXQ7Qtwlbxz4E4Y7xKqH19E4c/ff/A==",
       "dependencies": [
         "archiver",
         "debug@4.4.3",
         "get-it",
         "json-stream-stringify",
-        "p-queue",
-        "rimraf@6.1.2"
+        "p-queue"
       ]
     },
     "@sanity/generate-help-url@3.0.1": {
@@ -2615,31 +2587,31 @@
         "react-dom"
       ]
     },
-    "@sanity/insert-menu@2.1.0_@sanity+types@4.21.1__@types+react@19.2.7_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_@types+react@19.2.7_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3": {
+    "@sanity/insert-menu@2.1.0_@sanity+types@5.0.0__@types+react@19.2.7_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_@types+react@19.2.7_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3": {
       "integrity": "sha512-vzl1jxkPYoEm8Hxin4KOT1gVTecUIKGgO9uxmd9Ur/BTsZatmBsO8jLvBKHgDa2JtHM1oJJhBQIbXUD3zIUvuQ==",
       "dependencies": [
         "@sanity/icons",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "lodash",
         "react",
         "react-compiler-runtime",
         "react-dom",
-        "react-is@19.2.1"
+        "react-is@19.2.3"
       ]
     },
     "@sanity/json-match@1.0.5": {
       "integrity": "sha512-skhIX8gT/hLritEBkjfc7+TBlJNu/NLisyA8noKceCk28OatFK0wX7dIuFawkt3pfhTYVomVPykAYFcIm2OqJg=="
     },
-    "@sanity/language-filter@4.0.5_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
+    "@sanity/language-filter@4.0.5_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
       "integrity": "sha512-vUlq64UGRSRjwJs/gY+CwFKoIRvU/pwnrK7ftPspHsnr85y1zWqGaThtCi0dGVRcMb4tvUIctxyfqxZtEaajyg==",
       "dependencies": [
         "@sanity/icons",
         "@sanity/incompatible-plugin",
-        "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "@sanity/util@3.99.0_@types+react@19.2.7",
         "react",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
         "styled-components"
       ]
     },
@@ -2665,13 +2637,13 @@
         "@sanity/comlink@4.0.1"
       ]
     },
-    "@sanity/migrate@4.21.1_@types+react@19.2.7": {
-      "integrity": "sha512-tcQ4AN8d8Ln7ycof0jYKS2PhETlFfhXwBPTthGeMwarrY4COqP1Fh8tLA5bN/M9+4kVPkMJpPr3yqMlx+XKd7A==",
+    "@sanity/migrate@5.0.0_@types+react@19.2.7": {
+      "integrity": "sha512-XdNP7jRxXunr2W6kOxA74w7QmdbkRuP2r5ESLu7kwJuecMT7s/BK2XnB8LkvtteR5XRMqx8xKcp/128ZlhQ0vw==",
       "dependencies": [
         "@sanity/client",
         "@sanity/mutate@0.15.0",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
-        "@sanity/util@4.21.1_@types+react@19.2.7",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
+        "@sanity/util@5.0.0_@types+react@19.2.7",
         "arrify@2.0.1",
         "debug@4.4.3",
         "fast-fifo",
@@ -2715,47 +2687,47 @@
         "lodash"
       ]
     },
-    "@sanity/mutator@4.21.1_@types+react@19.2.7": {
-      "integrity": "sha512-i3Fnz5DT94SfQPY4NP84FEzuCjc0eCknZTOUJxP7NImNrKFYPKzyVgDOCJBE6TedA75fWXQSZmAuOR1rwSKhqw==",
+    "@sanity/mutator@5.0.0_@types+react@19.2.7": {
+      "integrity": "sha512-VYViwvA5iCnFoQO+UIwOBJLj4zDcyqg2ud8vhofpD0c+Nx/Sacng5udQP/sD8KFlBr78LqBdtZfrb3+N3X8rpw==",
       "dependencies": [
         "@sanity/diff-match-patch",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
         "@sanity/uuid",
         "debug@4.4.3",
         "lodash"
       ]
     },
-    "@sanity/presentation-comlink@2.0.1_@sanity+client@7.13.2_@sanity+types@4.21.1__@types+react@19.2.7_@types+react@19.2.7": {
+    "@sanity/presentation-comlink@2.0.1_@sanity+client@7.13.2_@sanity+types@5.0.0__@types+react@19.2.7_@types+react@19.2.7": {
       "integrity": "sha512-D0S2CfVyda99cd/8SnXxQ2tsVlVuRq4CAOjxRuF53evYmBhpWezSEpWKqAa0e1lunGBKK1EroxmOzb5ofNRwMg==",
       "dependencies": [
         "@sanity/comlink@4.0.1",
         "@sanity/visual-editing-types"
       ]
     },
-    "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3": {
+    "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3": {
       "integrity": "sha512-O7o6hsxbMp7y20znU9seV6h8WeTS+U4ovtqLd6j3oaSRyuriZenN/O6K39LJaKC2TZY1RUsYRvcv5/rNq7sAEQ==",
       "dependencies": [
         "@sanity/client",
         "@sanity/icons",
         "@sanity/uuid",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
       ],
       "optionalPeers": [
         "@sanity/icons",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
       ]
     },
-    "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3": {
+    "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3": {
       "integrity": "sha512-O7o6hsxbMp7y20znU9seV6h8WeTS+U4ovtqLd6j3oaSRyuriZenN/O6K39LJaKC2TZY1RUsYRvcv5/rNq7sAEQ==",
       "dependencies": [
         "@sanity/client",
         "@sanity/icons",
         "@sanity/uuid",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
       ],
       "optionalPeers": [
         "@sanity/icons",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3"
       ]
     },
     "@sanity/runtime-cli@12.2.0_jiti@2.6.1_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3": {
@@ -2789,12 +2761,26 @@
       ],
       "bin": true
     },
-    "@sanity/schema@4.21.1_@types+react@19.2.7": {
-      "integrity": "sha512-7+JTAXlF0VTTBqfGTyWsAI/65BGuMjqgXxPBgPnbZ8a0FSzutM3gP++m5MbaEnLY7W5z5+NzjBQuSIak8GvqJg==",
+    "@sanity/schema@4.22.0_@types+react@19.2.7": {
+      "integrity": "sha512-39cH5XwMsdLPuntLJyX+bre7FJyZvB3foDhHL7hUx4GCCOZ41X+6QV/yj8mbPzLSTbyhH7nNDBXrBYhvjig84Q==",
       "dependencies": [
         "@sanity/descriptors",
         "@sanity/generate-help-url",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
+        "@sanity/types@4.22.0_@types+react@19.2.7",
+        "arrify@2.0.1",
+        "groq-js",
+        "humanize-list",
+        "leven",
+        "lodash",
+        "object-inspect"
+      ]
+    },
+    "@sanity/schema@5.0.0_@types+react@19.2.7": {
+      "integrity": "sha512-V+zApirPR2B6AzmWPS2nQtETrTnRuSb9RJCafRtPCvi4z87488clX0GdRORMnLMeYg8CpmiyOYcJDSDnUUnzGQ==",
+      "dependencies": [
+        "@sanity/descriptors",
+        "@sanity/generate-help-url",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
         "arrify@2.0.1",
         "groq-js",
         "humanize-list",
@@ -2855,15 +2841,23 @@
         "@types/react"
       ]
     },
-    "@sanity/types@4.21.1_@types+react@19.2.7": {
-      "integrity": "sha512-v0xoriwlg6wtYMIWMy7i6VBfke/Sts/sikwW2Sd+tG55jPGBk25B9N0oymn2YsT6fFsypsP5RqIyByWYSX5lWA==",
+    "@sanity/types@4.22.0_@types+react@19.2.7": {
+      "integrity": "sha512-VWAUc8Xtj4IipQt99SzudRldJWHfBVnde+g5qnLZ/Nc1MpFjGiRWu/3smRN5mPOqlrtUfrr0ho/fBZnjE1CEMg==",
       "dependencies": [
         "@sanity/client",
         "@sanity/media-library-types",
         "@types/react"
       ]
     },
-    "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3": {
+    "@sanity/types@5.0.0_@types+react@19.2.7": {
+      "integrity": "sha512-a3UAYjqTuNDPZ2/7XdZ69kcZS6WSP6rf2xwoW4snMNi7cv80s1Z7MXPK6AHoQuW7y6qvgf3+oGMh3xB4QNl1Pw==",
+      "dependencies": [
+        "@sanity/client",
+        "@sanity/media-library-types",
+        "@types/react"
+      ]
+    },
+    "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3": {
       "integrity": "sha512-Zw217nqjLhROHrjFYPCwV61xEYHwUbBOohHO2DZ4LdQKqNfTKsqcjLVx9Heb4oDzB06L+1CamIrvPaexVijfeg==",
       "dependencies": [
         "@floating-ui/react-dom",
@@ -2875,13 +2869,13 @@
         "react",
         "react-compiler-runtime",
         "react-dom",
-        "react-is@19.2.1",
+        "react-is@19.2.3",
         "react-refractor@2.2.0_react@19.2.3",
         "styled-components",
         "use-effect-event"
       ]
     },
-    "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3": {
+    "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3": {
       "integrity": "sha512-UooG4hq0ytUivCe0d5O+QWnG+B6fpuu5npNZNpV9SJNwZNH4hDNbLjnDS8sqEkaYVNhgIS+C26nnkVK134Di4w==",
       "dependencies": [
         "@floating-ui/react-dom",
@@ -2893,7 +2887,7 @@
         "react",
         "react-compiler-runtime",
         "react-dom",
-        "react-is@19.2.1",
+        "react-is@19.2.3",
         "react-refractor@4.0.0_react@19.2.3",
         "styled-components",
         "use-effect-event"
@@ -2911,13 +2905,13 @@
         "rxjs"
       ]
     },
-    "@sanity/util@4.21.1_@types+react@19.2.7": {
-      "integrity": "sha512-wvMASl3Ok5I3mYuY/+W9MBEe2dC9JJh7wfs73gNuqumZJNWk3anOh1nQajHfQt9NA5kbjUPVSGZfjnL1dG/AKw==",
+    "@sanity/util@5.0.0_@types+react@19.2.7": {
+      "integrity": "sha512-dpbYQ9OICC3myc6ucH4WArv2JYyNzWyodj57AoDGlCnFyaoUlyPhimebUzz+9UGhgRfVkg0lTBiwgkQW3EEbng==",
       "dependencies": [
         "@date-fns/tz",
         "@date-fns/utc",
         "@sanity/client",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
         "date-fns",
         "rxjs"
       ]
@@ -2929,8 +2923,8 @@
         "uuid@8.3.2"
       ]
     },
-    "@sanity/vision@4.21.1_react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_rxjs@7.8.2_@codemirror+autocomplete@6.20.0_@codemirror+language@6.11.3_@codemirror+search@6.5.11": {
-      "integrity": "sha512-Gw9jL5e9IV1+YQbR4TZhi3EshdgNGZB8h3GqvJN/Zwo0wBGz9Mg3Us5eiSlgkjTKDRpgWnT3pv/FuX6ZY/03+w==",
+    "@sanity/vision@5.0.0_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@codemirror+state@6.5.2_@codemirror+view@6.38.8_rxjs@7.8.2_@codemirror+autocomplete@6.20.0_@codemirror+language@6.11.3_@codemirror+search@6.5.11_@types+react@19.2.7": {
+      "integrity": "sha512-ISEDX5jIguIr4W/G4RWXfc8lREWDY+Ex4pihgbSwFaYmexcndfZDAKJi0tM3swZTAcHaXLXc0upNm7o5dY53Kw==",
       "dependencies": [
         "@codemirror/autocomplete",
         "@codemirror/commands",
@@ -2945,7 +2939,7 @@
         "@rexxars/react-split-pane",
         "@sanity/color",
         "@sanity/icons",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "@sanity/uuid",
         "@uiw/react-codemirror",
         "is-hotkey-esm",
@@ -2954,23 +2948,26 @@
         "lodash",
         "quick-lru@5.1.1",
         "react",
-        "react-compiler-runtime",
         "react-fast-compare",
         "react-rx",
         "rxjs",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
         "styled-components",
         "use-effect-event"
       ]
     },
-    "@sanity/visual-editing-types@1.1.8_@sanity+client@7.13.2_@sanity+types@4.21.1__@types+react@19.2.7_@types+react@19.2.7": {
+    "@sanity/visual-editing-types@1.1.8_@sanity+client@7.13.2_@sanity+types@5.0.0__@types+react@19.2.7_@types+react@19.2.7": {
       "integrity": "sha512-4Hu3J8qDLanymnSapRzKwHlQl6SCsBbkL1o5fSMVbWVHvTk/j2uGLLNTsjASICTqUwSm3fwWlyahzCy2uS/LvQ==",
       "dependencies": [
         "@sanity/client",
-        "@sanity/types@4.21.1_@types+react@19.2.7"
+        "@sanity/types@5.0.0_@types+react@19.2.7"
       ],
       "optionalPeers": [
-        "@sanity/types@4.21.1_@types+react@19.2.7"
+        "@sanity/types@5.0.0_@types+react@19.2.7"
       ]
+    },
+    "@sanity/worker-channels@1.1.0": {
+      "integrity": "sha512-25SS2RuQFRLZ8STlW7fdxb7vvxMWhryh3tY2ADQaZiaQt1r57GZgeMma85AG0mSesaMvFL1ndO+XiBOFHBHSmg=="
     },
     "@sentry-internal/browser-utils@8.55.0": {
       "integrity": "sha512-ROgqtQfpH/82AQIpESPqPQe0UyWywKJsmVIqi3c5Fh+zkds5LUxnssTj3yNd1x+kxaPDVB023jAP+3ibNgeNDw==",
@@ -3225,7 +3222,7 @@
         "vite@7.2.6_jiti@2.6.1_picomatch@4.0.3"
       ]
     },
-    "@xstate/react@6.0.0_react@19.2.3_xstate@5.24.0": {
+    "@xstate/react@6.0.0_react@19.2.3_xstate@5.25.0": {
       "integrity": "sha512-xXlLpFJxqLhhmecAXclBECgk+B4zYSrDTl8hTfPZBogkn82OHKbm9zJxox3Z/YXoOhAQhKFTRLMYGdlbhc6T9A==",
       "dependencies": [
         "react",
@@ -3401,12 +3398,6 @@
     },
     "before-after-hook@2.2.3": {
       "integrity": "sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ=="
-    },
-    "bidi-js@1.0.3": {
-      "integrity": "sha512-RKshQI1R3YQ+n9YJz2QQ147P66ELpa1FQEg20Dk8oW9t2KgLbpDLLp9aGZ7y8WHSshDknG0bknqGw5/tyCs5tw==",
-      "dependencies": [
-        "require-from-string"
-      ]
     },
     "binary-extensions@2.3.0": {
       "integrity": "sha512-Ceh+7ox5qe7LJuLHoY0feh3pHuUDHAcRUeyL2VYghZwfpkNIy/+8Ocg0a3UuSoYzavmylwuLWQOf3hl0jjMMIw=="
@@ -3776,29 +3767,14 @@
         "postcss-value-parser"
       ]
     },
-    "css-tree@3.1.0": {
-      "integrity": "sha512-0eW44TGN5SQXU1mWSkKwFstI/22X2bG1nYzZTYMAWjylYURhse752YgbE4Cx46AC+bAvI+/dYTPRk1LqSUnu6w==",
-      "dependencies": [
-        "mdn-data",
-        "source-map-js"
-      ]
-    },
     "css-what@6.2.2": {
       "integrity": "sha512-u/O3vwbptzhMs3L1fQE82ZSLHQQfto5gyZzwteVIEyeaY5Fc7R4dapF/BvRoSYFeqfBk4m0V1Vafq5Pjv25wvA=="
     },
     "cssstyle@4.6.0": {
       "integrity": "sha512-2z+rWdzbbSZv6/rhtvzvqeZQHrBaqgogqt85sqFNbabZOuFbCVFb8kPeEtZjiKkbrm395irpNKiYeFeLiQnFPg==",
       "dependencies": [
-        "@asamuzakjp/css-color@3.2.0_@csstools+css-parser-algorithms@3.0.5__@csstools+css-tokenizer@3.0.4_@csstools+css-tokenizer@3.0.4",
+        "@asamuzakjp/css-color",
         "rrweb-cssom"
-      ]
-    },
-    "cssstyle@5.3.3": {
-      "integrity": "sha512-OytmFH+13/QXONJcC75QNdMtKpceNk3u8ThBjyyYjkEcy/ekBwR1mMAuNvi3gdBPW3N5TlCzQ0WZw8H0lN/bDw==",
-      "dependencies": [
-        "@asamuzakjp/css-color@4.1.0_@csstools+css-parser-algorithms@3.0.5__@csstools+css-tokenizer@3.0.4_@csstools+css-tokenizer@3.0.4",
-        "@csstools/css-syntax-patches-for-csstree",
-        "css-tree"
       ]
     },
     "csstype@3.1.3": {
@@ -3820,14 +3796,7 @@
       "integrity": "sha512-ZYP5VBHshaDAiVZxjbRVcFJpc+4xGgT0bK3vzy1HLN8jTO975HEbuYzZJcHoQEY5K1a0z8YayJkyVETa08eNTg==",
       "dependencies": [
         "whatwg-mimetype",
-        "whatwg-url@14.2.0"
-      ]
-    },
-    "data-urls@6.0.0": {
-      "integrity": "sha512-BnBS08aLUM+DKamupXs3w2tJJoqU+AkaE/+6vQxi/G/DPmIZFJJp9Dkb1kM03AZx8ADehDUZgsNxju3mPXZYIA==",
-      "dependencies": [
-        "whatwg-mimetype",
-        "whatwg-url@15.1.0"
+        "whatwg-url"
       ]
     },
     "dataloader@2.2.3": {
@@ -4507,8 +4476,8 @@
     "groq@3.88.1-typegen-experimental.0": {
       "integrity": "sha512-6TZD6H1y3P7zk0BQharjFa7BOivV9nFL6KKVZbRZRH0yOSSyu2xHglTO48b1/2mCEdYoBQpvE7rjCDUf6XmQYQ=="
     },
-    "groq@4.21.1": {
-      "integrity": "sha512-9+4WEkxsOYTJFzXp3JT3gD2cgQIqI+whs/rYfxoUI4WDE3lIugtFiKmX1WMQhTvddOCx8rnOyXbDwiBVGMWmwg=="
+    "groq@5.0.0": {
+      "integrity": "sha512-tO7ulBDS6QEg6xjfM91e79KvBsajDUk45y49a9oesST79P3rbISQ25a0WuhNehIlJu3GOUHd4+xrYiDxGGE4mg=="
     },
     "gunzip-maybe@1.4.2": {
       "integrity": "sha512-4haO1M4mLO91PW57BMsDFf75UmwoRX0GkdD+Faw+Lr+r/OZrOCS0pIBwOL1xCKQqnQzbNFGgK2V2CpBUPeFNTw==",
@@ -4831,11 +4800,11 @@
     "isobject@3.0.1": {
       "integrity": "sha512-WhB9zCku7EGTj/HQQRz5aUQEUeoQZH2bWcltRErOpymJ4boYE6wL9Tbr23krRPSZ+C5zqNSrSw+Cc7sZZ4b7vg=="
     },
-    "isomorphic-dompurify@2.33.0": {
-      "integrity": "sha512-pXGR3rAHAXb5Bvr56pc5aV0Lh8laubLo7/60F+soOzDFmwks6MtgDhL7p46VoxLnwgIsjgmVhQpUt4mUlL/XEw==",
+    "isomorphic-dompurify@2.26.0": {
+      "integrity": "sha512-nZmoK4wKdzPs5USq4JHBiimjdKSVAOm2T1KyDoadtMPNXYHxiENd19ou4iU/V4juFM6LVgYQnpxCYmxqNP4Obw==",
       "dependencies": [
         "dompurify",
-        "jsdom@27.2.0"
+        "jsdom"
       ]
     },
     "jackspeak@3.4.3": {
@@ -4874,55 +4843,30 @@
     "jsdom-global@3.0.2_jsdom@26.1.0": {
       "integrity": "sha512-t1KMcBkz/pT5JrvcJbpUR2u/w1kO9jXctaaGJ0vZDzwFnIvGWw9IDSRciT83kIs8Bnw4qpOl8bQK08V01YgMPg==",
       "dependencies": [
-        "jsdom@26.1.0"
+        "jsdom"
       ]
     },
     "jsdom@26.1.0": {
       "integrity": "sha512-Cvc9WUhxSMEo4McES3P7oK3QaXldCfNWp7pl2NNeiIFlCoLr3kfq9kb1fxftiwk1FLV7CvpvDfonxtzUDeSOPg==",
       "dependencies": [
-        "cssstyle@4.6.0",
-        "data-urls@5.0.0",
+        "cssstyle",
+        "data-urls",
         "decimal.js",
         "html-encoding-sniffer",
         "http-proxy-agent",
         "https-proxy-agent",
         "is-potential-custom-element-name",
         "nwsapi",
-        "parse5@7.3.0",
+        "parse5",
         "rrweb-cssom",
         "saxes",
         "symbol-tree",
-        "tough-cookie@5.1.2",
+        "tough-cookie",
         "w3c-xmlserializer",
-        "webidl-conversions@7.0.0",
+        "webidl-conversions",
         "whatwg-encoding",
         "whatwg-mimetype",
-        "whatwg-url@14.2.0",
-        "ws",
-        "xml-name-validator"
-      ]
-    },
-    "jsdom@27.2.0": {
-      "integrity": "sha512-454TI39PeRDW1LgpyLPyURtB4Zx1tklSr6+OFOipsxGUH1WMTvk6C65JQdrj455+DP2uJ1+veBEHTGFKWVLFoA==",
-      "dependencies": [
-        "@acemir/cssom",
-        "@asamuzakjp/dom-selector",
-        "cssstyle@5.3.3",
-        "data-urls@6.0.0",
-        "decimal.js",
-        "html-encoding-sniffer",
-        "http-proxy-agent",
-        "https-proxy-agent",
-        "is-potential-custom-element-name",
-        "parse5@8.0.0",
-        "saxes",
-        "symbol-tree",
-        "tough-cookie@6.0.0",
-        "w3c-xmlserializer",
-        "webidl-conversions@8.0.0",
-        "whatwg-encoding",
-        "whatwg-mimetype",
-        "whatwg-url@15.1.0",
+        "whatwg-url",
         "ws",
         "xml-name-validator"
       ]
@@ -5105,9 +5049,6 @@
     },
     "md5-o-matic@0.1.1": {
       "integrity": "sha512-QBJSFpsedXUl/Lgs4ySdB2XCzUEcJ3ujpbagdZCkRaYIaC0kFnID8jhc84KEiVv6dNFtIrmW7bqow0lDxgJi6A=="
-    },
-    "mdn-data@2.12.2": {
-      "integrity": "sha512-IEn+pegP1aManZuckezWCO+XZQDplx1366JoVhTpMpBB1sPey/SbveZQUosKiKiGYjg1wH4pMlNgXbCiYgihQA=="
     },
     "mdurl@2.0.0": {
       "integrity": "sha512-Lf+9+2r+Tdp5wXDXC4PcIBjTDtq4UKjCPMQhKIuzpJNW0b96kVqSwW0bT7FhRSfmAiFYgP+SCRvdrDozfh0U5w=="
@@ -5538,12 +5479,6 @@
         "entities@6.0.1"
       ]
     },
-    "parse5@8.0.0": {
-      "integrity": "sha512-9m4m5GSgXjL4AjumKzq1Fgfp3Z8rsvjRNbnkVwfu2ImRqE5D0LnY2QfDen18FSY9C573YU5XxSapdHZTZ2WolA==",
-      "dependencies": [
-        "entities@6.0.1"
-      ]
-    },
     "path-exists@3.0.0": {
       "integrity": "sha512-bpC7GYwiDYQ4wYLe+FA8lhRjhQCMcQGuSgGGqDkg/QerRWw9CmGRT0iSOVRSZJ29NMLZgIzqaljJ63oaL4NIJQ=="
     },
@@ -5814,8 +5749,8 @@
     "react-is@16.13.1": {
       "integrity": "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
     },
-    "react-is@19.2.1": {
-      "integrity": "sha512-L7BnWgRbMwzMAubQcS7sXdPdNLmKlucPlopgAzx7FtYbksWZgEWiuYM5x9T6UqS2Ne0rsgQTq5kY2SGqpzUkYA=="
+    "react-is@19.2.3": {
+      "integrity": "sha512-qJNJfu81ByyabuG7hPFEbXqNcWSU3+eVus+KJs+0ncpGfMyYdvSmxiJxbWR65lYi1I+/0HBcliO029gc4F+PnA=="
     },
     "react-refractor@2.2.0_react@19.2.3": {
       "integrity": "sha512-UvWkBVqH/2b9nkkkt4UNFtU3aY1orQfd4plPjx5rxbefy6vGajNHU9n+tv8CbykFyVirr3vEBfN2JTxyK0d36g==",
@@ -6000,9 +5935,6 @@
     "require-directory@2.1.1": {
       "integrity": "sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q=="
     },
-    "require-from-string@2.0.2": {
-      "integrity": "sha512-Xf0nWe6RseziFMu+Ap9biiUbmplq6S9/p+7w7YXP/JBHhrUDDUhwa+vANyubuqfZWTveU//DYVGsDG7RKL/vEw=="
-    },
     "reselect@5.1.1": {
       "integrity": "sha512-K/BG6eIky/SBpzfHZv/dd+9JBFiS4SWV7FIujVyJRux6e45+73RaUHXLmIR1f7WOMaQ0U1km6qwklRQxpJJY0w=="
     },
@@ -6127,51 +6059,51 @@
     "safer-buffer@2.1.2": {
       "integrity": "sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg=="
     },
-    "sanity-plugin-internationalized-array@3.2.1_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
+    "sanity-plugin-internationalized-array@3.2.1_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
       "integrity": "sha512-aXqkHbCwzKamQRjgC0hKVXpJTr6s+pdiMef8qToK+OEoE+1ab5njIDGmwGZBFaIU704MlCqNSVjsmB3S+JEXWw==",
       "dependencies": [
         "@sanity/icons",
         "@sanity/incompatible-plugin",
         "@sanity/language-filter",
-        "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "fast-deep-equal",
         "lodash",
         "react",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
         "styled-components",
         "suspend-react"
       ]
     },
-    "sanity-plugin-internationalized-array@3.2.1_react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
+    "sanity-plugin-internationalized-array@3.2.1_react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
       "integrity": "sha512-aXqkHbCwzKamQRjgC0hKVXpJTr6s+pdiMef8qToK+OEoE+1ab5njIDGmwGZBFaIU704MlCqNSVjsmB3S+JEXWw==",
       "dependencies": [
         "@sanity/icons",
         "@sanity/incompatible-plugin",
         "@sanity/language-filter",
-        "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@2.16.22_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "fast-deep-equal",
         "lodash",
         "react",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
         "styled-components",
         "suspend-react"
       ]
     },
-    "sanity-plugin-utils@1.7.0_react@19.2.3_rxjs@7.8.2_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
+    "sanity-plugin-utils@1.7.0_react@19.2.3_rxjs@7.8.2_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.7": {
       "integrity": "sha512-ZL7xomarlNRzXzr/sNEkT+Z/h0rdQ+hb60C2rP6rgoHx1mWAGNZai25ACCMoe8P5E4P+B3CenqpQW/eKJK+FDA==",
       "dependencies": [
         "@sanity/icons",
         "@sanity/incompatible-plugin",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
         "react",
         "react-fast-compare",
         "rxjs",
-        "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
+        "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
         "styled-components"
       ]
     },
-    "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3": {
-      "integrity": "sha512-iutv4mhtgDDh7ySLx9kUkVXOW8MVyxs2WmaX4KUMEETNqV293ZrcO7PvCoRoivYE94o6v2c9cqVp8xT6ELld8w==",
+    "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3": {
+      "integrity": "sha512-BD2WhcylMoY6IWOIxXjD0xiHlBig9EwX1JUXZkUKS4NPE29Wp8FVZ6CLftBFqS8egS4/VhR6IOQ1rkq5t/MbpQ==",
       "dependencies": [
         "@date-fns/tz",
         "@dnd-kit/core",
@@ -6210,15 +6142,15 @@
         "@sanity/media-library-types",
         "@sanity/message-protocol@0.17.8",
         "@sanity/migrate",
-        "@sanity/mutator@4.21.1_@types+react@19.2.7",
+        "@sanity/mutator@5.0.0_@types+react@19.2.7",
         "@sanity/presentation-comlink",
-        "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3",
-        "@sanity/schema",
+        "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___jiti@2.6.1___picomatch@4.0.3__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__jiti@2.6.1__picomatch@4.0.3_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3",
+        "@sanity/schema@5.0.0_@types+react@19.2.7",
         "@sanity/sdk",
         "@sanity/telemetry",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
-        "@sanity/util@4.21.1_@types+react@19.2.7",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/util@5.0.0_@types+react@19.2.7",
         "@sanity/uuid",
         "@sentry/react",
         "@tanstack/react-table",
@@ -6258,7 +6190,7 @@
         "is-hotkey-esm",
         "is-tar",
         "isomorphic-dompurify",
-        "jsdom@26.1.0",
+        "jsdom",
         "jsdom-global",
         "json-lexer",
         "json-reduce",
@@ -6286,12 +6218,11 @@
         "quick-lru@7.3.0",
         "raf",
         "react",
-        "react-compiler-runtime",
         "react-dom",
         "react-fast-compare",
         "react-focus-lock",
         "react-i18next",
-        "react-is@19.2.1",
+        "react-is@19.2.3",
         "react-refractor@4.0.0_react@19.2.3",
         "react-rx",
         "read-pkg-up",
@@ -6324,8 +6255,8 @@
       ],
       "bin": true
     },
-    "sanity@4.21.1_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.13__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.24.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@4.21.1__@types+react@19.2.7_react-is@19.2.1_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3": {
-      "integrity": "sha512-iutv4mhtgDDh7ySLx9kUkVXOW8MVyxs2WmaX4KUMEETNqV293ZrcO7PvCoRoivYE94o6v2c9cqVp8xT6ELld8w==",
+    "sanity@5.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.7_rxjs@7.8.2_@portabletext+editor@3.3.16__@portabletext+sanity-bridge@1.2.14___@types+react@19.2.7__react@19.2.3__rxjs@7.8.2__@types+react@19.2.7__xstate@5.25.0__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_@sanity+types@5.0.0__@types+react@19.2.7_react-is@19.2.3_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3": {
+      "integrity": "sha512-BD2WhcylMoY6IWOIxXjD0xiHlBig9EwX1JUXZkUKS4NPE29Wp8FVZ6CLftBFqS8egS4/VhR6IOQ1rkq5t/MbpQ==",
       "dependencies": [
         "@date-fns/tz",
         "@dnd-kit/core",
@@ -6364,15 +6295,15 @@
         "@sanity/media-library-types",
         "@sanity/message-protocol@0.17.8",
         "@sanity/migrate",
-        "@sanity/mutator@4.21.1_@types+react@19.2.7",
+        "@sanity/mutator@5.0.0_@types+react@19.2.7",
         "@sanity/presentation-comlink",
-        "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@4.21.1__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.13___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.24.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@4.21.1___@types+react@19.2.7__react-is@19.2.1__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.24.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.24.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3",
-        "@sanity/schema",
+        "@sanity/preview-url-secret@3.0.0_@sanity+client@7.13.2_@sanity+icons@3.7.4__react@19.2.3_sanity@5.0.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.1.19___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.7__rxjs@7.8.2__@portabletext+editor@3.3.16___@portabletext+sanity-bridge@1.2.14____@types+react@19.2.7___react@19.2.3___rxjs@7.8.2___@types+react@19.2.7___xstate@5.25.0___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__@sanity+types@5.0.0___@types+react@19.2.7__react-is@19.2.3__@sanity+client@7.13.2__@sanity+icons@3.7.4___react@19.2.3__vite@7.2.6___picomatch@4.0.3___jiti@2.6.1__xstate@5.25.0__esbuild@0.27.0__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_vite@7.2.6__picomatch@4.0.3__jiti@2.6.1_xstate@5.25.0_esbuild@0.27.0_jsdom@26.1.0_i18next@23.16.8_react@19.2.3_use-sync-external-store@1.6.0__react@19.2.3",
+        "@sanity/schema@5.0.0_@types+react@19.2.7",
         "@sanity/sdk",
         "@sanity/telemetry",
-        "@sanity/types@4.21.1_@types+react@19.2.7",
-        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.1_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
-        "@sanity/util@4.21.1_@types+react@19.2.7",
+        "@sanity/types@5.0.0_@types+react@19.2.7",
+        "@sanity/ui@3.1.11_react@19.2.3_react-dom@19.2.3__react@19.2.3_react-is@19.2.3_styled-components@6.1.19__react@19.2.3__react-dom@19.2.3___react@19.2.3",
+        "@sanity/util@5.0.0_@types+react@19.2.7",
         "@sanity/uuid",
         "@sentry/react",
         "@tanstack/react-table",
@@ -6412,7 +6343,7 @@
         "is-hotkey-esm",
         "is-tar",
         "isomorphic-dompurify",
-        "jsdom@26.1.0",
+        "jsdom",
         "jsdom-global",
         "json-lexer",
         "json-reduce",
@@ -6440,12 +6371,11 @@
         "quick-lru@7.3.0",
         "raf",
         "react",
-        "react-compiler-runtime",
         "react-dom",
         "react-fast-compare",
         "react-focus-lock",
         "react-i18next",
-        "react-is@19.2.1",
+        "react-is@19.2.3",
         "react-refractor@4.0.0_react@19.2.3",
         "react-rx",
         "read-pkg-up",
@@ -6835,20 +6765,10 @@
     "tldts-core@6.1.86": {
       "integrity": "sha512-Je6p7pkk+KMzMv2XXKmAE3McmolOQFdxkKw0R8EYNr7sELW46JqnNeTX8ybPiQgvg1ymCoF8LXs5fzFaZvJPTA=="
     },
-    "tldts-core@7.0.19": {
-      "integrity": "sha512-lJX2dEWx0SGH4O6p+7FPwYmJ/bu1JbcGJ8RLaG9b7liIgZ85itUVEPbMtWRVrde/0fnDPEPHW10ZsKW3kVsE9A=="
-    },
     "tldts@6.1.86": {
       "integrity": "sha512-WMi/OQ2axVTf/ykqCQgXiIct+mSQDFdH2fkwhPwgEwvJ1kSzZRiinb0zF2Xb8u4+OqPChmyI6MEu4EezNJz+FQ==",
       "dependencies": [
-        "tldts-core@6.1.86"
-      ],
-      "bin": true
-    },
-    "tldts@7.0.19": {
-      "integrity": "sha512-8PWx8tvC4jDB39BQw1m4x8y5MH1BcQ5xHeL2n7UVFulMPH/3Q0uiamahFJ3lXA0zO2SUyRXuVVbWSDmstlt9YA==",
-      "dependencies": [
-        "tldts-core@7.0.19"
+        "tldts-core"
       ],
       "bin": true
     },
@@ -6861,23 +6781,11 @@
     "tough-cookie@5.1.2": {
       "integrity": "sha512-FVDYdxtnj0G6Qm/DhNPSb8Ju59ULcup3tuJxkFb5K8Bv2pUXILbf0xZWU8PX8Ov19OXljbUyveOFwRMwkXzO+A==",
       "dependencies": [
-        "tldts@6.1.86"
-      ]
-    },
-    "tough-cookie@6.0.0": {
-      "integrity": "sha512-kXuRi1mtaKMrsLUxz3sQYvVl37B0Ns6MzfrtV5DvJceE9bPyspOqk9xxv7XbZWcfLWbFmm997vl83qUWVJA64w==",
-      "dependencies": [
-        "tldts@7.0.19"
+        "tldts"
       ]
     },
     "tr46@5.1.1": {
       "integrity": "sha512-hdF5ZgjTqgAntKkklYw0R03MG2x/bSzTtkxmIRw/sTNV8YXsCJ1tfLAX23lhxhHJlEf3CRCOCGGWw3vI3GaSPw==",
-      "dependencies": [
-        "punycode"
-      ]
-    },
-    "tr46@6.0.0": {
-      "integrity": "sha512-bLVMLPtstlZ4iMQHpFHTR7GAGj2jxi8Dg0s2h2MafAE4uSWF98FC/3MomU51iQAMf8/qDUbKWf5GxuvvVcXEhw==",
       "dependencies": [
         "punycode"
       ]
@@ -7181,9 +7089,6 @@
     "webidl-conversions@7.0.0": {
       "integrity": "sha512-VwddBukDzu71offAQR975unBIGqfKZpM+8ZX6ySk8nYhVoo5CYaZyzt3YBvYtRtO+aoGlqxPg/B87NGVZ/fu6g=="
     },
-    "webidl-conversions@8.0.0": {
-      "integrity": "sha512-n4W4YFyz5JzOfQeA8oN7dUYpR+MBP3PIUsn2jLjWXwK5ASUzt0Jc/A5sAUZoCYFJRGF0FBKJ+1JjN43rNdsQzA=="
-    },
     "whatwg-encoding@3.1.1": {
       "integrity": "sha512-6qN4hJdMwfYBtE3YBTTHhoeuUrDBPZmbQaxWAqSALV/MeEnR5z1xd8UKud2RAkFoPkmB+hli1TZSnyi84xz1vQ==",
       "dependencies": [
@@ -7196,15 +7101,8 @@
     "whatwg-url@14.2.0": {
       "integrity": "sha512-De72GdQZzNTUBBChsXueQUnPKDkg/5A5zp7pFDuQAj5UFoENpiACU0wlCvzpAGnTkj++ihpKwKyYewn/XNUbKw==",
       "dependencies": [
-        "tr46@5.1.1",
-        "webidl-conversions@7.0.0"
-      ]
-    },
-    "whatwg-url@15.1.0": {
-      "integrity": "sha512-2ytDk0kiEj/yu90JOAp44PVPUkO9+jVhyf+SybKlRHSDlvOOZhdPIrr7xTH64l4WixO2cP+wQIcgujkGBPPz6g==",
-      "dependencies": [
-        "tr46@6.0.0",
-        "webidl-conversions@8.0.0"
+        "tr46",
+        "webidl-conversions"
       ]
     },
     "which-pm@3.0.1": {
@@ -7298,8 +7196,8 @@
     "xregexp@2.0.0": {
       "integrity": "sha512-xl/50/Cf32VsGq/1R8jJE5ajH1yMCQkpmoS10QbFZWl2Oor4H0Me64Pu2yxvsRWK3m6soJbmGfzSR7BYmDcWAA=="
     },
-    "xstate@5.24.0": {
-      "integrity": "sha512-h/213ThFfZbOefUWrLc9ZvYggEVBr0jrD2dNxErxNMLQfZRN19v+80TaXFho17hs8Q2E1mULtm/6nv12um0C4A=="
+    "xstate@5.25.0": {
+      "integrity": "sha512-yyWzfhVRoTHNLjLoMmdwZGagAYfmnzpm9gPjlX2MhJZsDojXGqRxODDOi4BsgGRKD46NZRAdcLp6CKOyvQS0Bw=="
     },
     "xtend@4.0.2": {
       "integrity": "sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ=="
@@ -7375,17 +7273,17 @@
   "workspace": {
     "packageJson": {
       "dependencies": [
-        "npm:@sanity/cli@^4.21.1",
+        "npm:@sanity/cli@5",
         "npm:@sanity/code-input@^6.0.3",
         "npm:@sanity/document-internationalization@^4.1.0",
-        "npm:@sanity/vision@^4.21.1",
+        "npm:@sanity/vision@5",
         "npm:@types/react-dom@^19.2.3",
         "npm:@types/react@^19.2.7",
         "npm:github-slugid@^1.0.1",
         "npm:react-dom@^19.2.3",
         "npm:react@^19.2.3",
         "npm:sanity-plugin-internationalized-array@^3.2.1",
-        "npm:sanity@^4.21.1",
+        "npm:sanity@5",
         "npm:styled-components@^6.1.19"
       ]
     }
