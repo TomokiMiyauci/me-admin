@@ -5,6 +5,7 @@ import post from "./post.ts";
 import author from "./author.ts";
 import legalDocument from "./legal_document.ts";
 import blog from "./blog.ts";
+import redirect from "./redirect.ts";
 
 export default [
   post,
@@ -14,4 +15,5 @@ export default [
   blockContent,
   legalDocument,
   blog,
+  redirect,
 ];
