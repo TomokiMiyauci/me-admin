@@ -32,7 +32,7 @@ export default defineConfig({
     }),
     documentInternationalization({
       supportedLanguages: languages,
-      schemaTypes: ["post", "category", "tag", "legalDocument"],
+      schemaTypes: ["post", "category", "tag", "legalDocument", "blog"],
     }),
     codeInput(),
   ],

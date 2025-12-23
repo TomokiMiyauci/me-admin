@@ -4,6 +4,7 @@ import tag from "./tag.ts";
 import post from "./post.ts";
 import author from "./author.ts";
 import legalDocument from "./legal_document.ts";
+import blog from "./blog.ts";
 
 export default [
   post,
@@ -12,4 +13,5 @@ export default [
   tag,
   blockContent,
   legalDocument,
+  blog,
 ];
