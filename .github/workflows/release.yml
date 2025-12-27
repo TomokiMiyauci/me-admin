@@ -40,6 +40,7 @@ jobs:
             --org=${{ vars.DENO_DEPLOY_ORG }} \
             --app=${{ vars.DENO_DEPLOY_APP }} \
             --token=${{ secrets.DENO_DEPLOY_TOKEN }} \
+            --no-wait \
             ${{ matrix.prod && '--prod' || '' }} \
             dist
 
