@@ -8,12 +8,10 @@ export default defineType({
       name: "image",
       type: "image",
       validation: (rule) => rule.required(),
-      fields: [
-        defineField({
-          name: "description",
-          type: "string",
-        }),
-      ],
+    }),
+    defineField({
+      name: "description",
+      type: "string",
     }),
   ],
 });
