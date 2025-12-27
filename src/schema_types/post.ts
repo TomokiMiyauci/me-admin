@@ -19,13 +19,7 @@ export default defineType({
     defineField({ name: "body", type: "bodyContent" }),
     defineField({
       name: "coverImage",
-      type: "image",
-      fields: [
-        defineField({
-          name: "description",
-          type: "string",
-        }),
-      ],
+      type: "picture",
     }),
     defineField({
       name: "slug",

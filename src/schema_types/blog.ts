@@ -12,13 +12,7 @@ export default defineType({
     defineField({ name: "description", type: "string" }),
     defineField({
       name: "coverImage",
-      type: "image",
-      fields: [
-        defineField({
-          name: "description",
-          type: "string",
-        }),
-      ],
+      type: "picture",
     }),
     defineField({
       name: "language",
