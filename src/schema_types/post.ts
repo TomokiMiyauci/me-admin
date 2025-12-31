@@ -69,11 +69,11 @@ export default defineType({
     }),
     defineField({
       name: "createdAt",
-      type: "datetime",
+      type: "date",
     }),
     defineField({
       name: "updatedAt",
-      type: "datetime",
+      type: "date",
     }),
     defineField({
       name: "language",
