@@ -7,6 +7,7 @@ import legalDocument from "./legal_document.ts";
 import blog from "./blog.ts";
 import redirect from "./redirect.ts";
 import picture from "./picture.ts";
+import home from "./home.ts";
 
 export default [
   post,
@@ -18,4 +19,5 @@ export default [
   blog,
   redirect,
   picture,
+  home,
 ];
