@@ -1,19 +1,19 @@
 {
   "type": "module",
   "dependencies": {
-    "@sanity/cli": "^5.0.0",
-    "@sanity/code-input": "^6.0.3",
-    "@sanity/document-internationalization": "^4.1.0",
-    "@sanity/vision": "^5.0.0",
+    "@sanity/cli": "^5.4.0",
+    "@sanity/code-input": "^6.0.4",
+    "@sanity/document-internationalization": "^4.1.1",
+    "@sanity/vision": "^5.4.0",
     "github-slugid": "^1.0.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "sanity": "^5.0.0",
-    "sanity-plugin-internationalized-array": "^3.2.1",
-    "styled-components": "^6.1.19"
+    "sanity": "^5.4.0",
+    "sanity-plugin-internationalized-array": "^3.2.2",
+    "styled-components": "^6.3.8"
   },
   "devDependencies": {
-    "@types/react": "^19.2.7",
+    "@types/react": "^19.2.8",
     "@types/react-dom": "^19.2.3"
   },
   "scripts": {
