@@ -4,7 +4,6 @@
     "npm:@sanity/cli@^5.4.0": "5.4.0_babel-plugin-react-compiler@1.0.0_react@19.2.3_esbuild@0.27.2",
     "npm:@sanity/code-input@^6.0.4": "6.0.4_react@19.2.3_react-dom@19.2.3__react@19.2.3_sanity@5.4.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.3.8___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.8__rxjs@7.8.2__@portabletext+editor@4.2.4___@portabletext+sanity-bridge@2.0.0____@types+react@19.2.8___react@19.2.3___rxjs@7.8.2___@types+react@19.2.8___xstate@5.25.1___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__babel-plugin-react-compiler@1.0.0__@sanity+types@5.4.0___@types+react@19.2.8__@sanity+client@7.14.0__react-is@19.2.3__vite@7.3.1___picomatch@4.0.3___jiti@2.6.1___tsx@4.21.0__xstate@5.25.1__esbuild@0.27.2__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.3.8__react@19.2.3__react-dom@19.2.3___react@19.2.3_@codemirror+language@6.12.1_@codemirror+state@6.5.4_@codemirror+view@6.39.11_@codemirror+autocomplete@6.20.0_@codemirror+search@6.6.0_@types+react@19.2.8_babel-plugin-react-compiler@1.0.0",
     "npm:@sanity/document-internationalization@^4.1.1": "4.1.1_react@19.2.3_sanity@5.4.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.3.8___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.8__rxjs@7.8.2__@portabletext+editor@4.2.4___@portabletext+sanity-bridge@2.0.0____@types+react@19.2.8___react@19.2.3___rxjs@7.8.2___@types+react@19.2.8___xstate@5.25.1___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__babel-plugin-react-compiler@1.0.0__@sanity+types@5.4.0___@types+react@19.2.8__@sanity+client@7.14.0__react-is@19.2.3__vite@7.3.1___picomatch@4.0.3___jiti@2.6.1___tsx@4.21.0__xstate@5.25.1__esbuild@0.27.2__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.3.8__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@types+react@19.2.8_babel-plugin-react-compiler@1.0.0",
-    "npm:@sanity/vision@^5.4.0": "5.4.0_react@19.2.3_sanity@5.4.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.3.8___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.8__rxjs@7.8.2__@portabletext+editor@4.2.4___@portabletext+sanity-bridge@2.0.0____@types+react@19.2.8___react@19.2.3___rxjs@7.8.2___@types+react@19.2.8___xstate@5.25.1___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__babel-plugin-react-compiler@1.0.0__@sanity+types@5.4.0___@types+react@19.2.8__@sanity+client@7.14.0__react-is@19.2.3__vite@7.3.1___picomatch@4.0.3___jiti@2.6.1___tsx@4.21.0__xstate@5.25.1__esbuild@0.27.2__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.3.8__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@codemirror+state@6.5.4_@codemirror+view@6.39.11_rxjs@7.8.2_@codemirror+autocomplete@6.20.0_@codemirror+language@6.12.1_@codemirror+search@6.6.0_@types+react@19.2.8_babel-plugin-react-compiler@1.0.0",
     "npm:@types/react-dom@^19.2.3": "19.2.3_@types+react@19.2.8",
     "npm:@types/react@^19.2.8": "19.2.8",
     "npm:babel-plugin-react-compiler@1": "1.0.0",
@@ -2226,13 +2225,6 @@
         "react"
       ]
     },
-    "@rexxars/react-split-pane@1.0.0_react@19.2.3_react-dom@19.2.3__react@19.2.3": {
-      "integrity": "sha512-Ewl8ugA2VQd+idzcg65WFbYh/oCLPOFjeDKpebexPgFDDX8ZwsHZWy5jNwiIWI8txDidVmRP98lsnmBHlIywWA==",
-      "dependencies": [
-        "react",
-        "react-dom"
-      ]
-    },
     "@rolldown/pluginutils@1.0.0-beta.53": {
       "integrity": "sha512-vENRlFU4YbrwVqNDZ7fLvy+JR1CRkyr01jhSiDpE1u6py3OMzQfztQU2jxykW3ALNxO4kSlqIDeYyD0Y9RcQeQ=="
     },
@@ -2932,38 +2924,6 @@
       "dependencies": [
         "@types/uuid",
         "uuid@8.3.2"
-      ]
-    },
-    "@sanity/vision@5.4.0_react@19.2.3_sanity@5.4.0__react@19.2.3__react-dom@19.2.3___react@19.2.3__styled-components@6.3.8___react@19.2.3___react-dom@19.2.3____react@19.2.3__@dnd-kit+core@6.3.1___react@19.2.3___react-dom@19.2.3____react@19.2.3__@types+react@19.2.8__rxjs@7.8.2__@portabletext+editor@4.2.4___@portabletext+sanity-bridge@2.0.0____@types+react@19.2.8___react@19.2.3___rxjs@7.8.2___@types+react@19.2.8___xstate@5.25.1___slate@0.120.0___react-dom@19.2.3____react@19.2.3___slate-dom@0.119.0____slate@0.120.0__babel-plugin-react-compiler@1.0.0__@sanity+types@5.4.0___@types+react@19.2.8__@sanity+client@7.14.0__react-is@19.2.3__vite@7.3.1___picomatch@4.0.3___jiti@2.6.1___tsx@4.21.0__xstate@5.25.1__esbuild@0.27.2__jsdom@26.1.0__i18next@23.16.8__use-sync-external-store@1.6.0___react@19.2.3_styled-components@6.3.8__react@19.2.3__react-dom@19.2.3___react@19.2.3_react-dom@19.2.3__react@19.2.3_@codemirror+state@6.5.4_@codemirror+view@6.39.11_rxjs@7.8.2_@codemirror+autocomplete@6.20.0_@codemirror+language@6.12.1_@codemirror+search@6.6.0_@types+react@19.2.8_babel-plugin-react-compiler@1.0.0": {
-      "integrity": "sha512-/jw6tSIo1IsNhAl6LyQYOS77ZZI1NF5L+iBJL8/8M84NsnJVuAWBMm/K+TsPKEDXlU9CVXOe8u0+87PVWsIYIg==",
-      "dependencies": [
-        "@codemirror/autocomplete",
-        "@codemirror/commands",
-        "@codemirror/lang-javascript",
-        "@codemirror/language",
-        "@codemirror/search",
-        "@codemirror/state",
-        "@codemirror/view",
-        "@juggle/resize-observer",
-        "@lezer/highlight",
-        "@rexxars/react-json-inspector",
-        "@rexxars/react-split-pane",
-        "@sanity/color",
-        "@sanity/icons",
-        "@sanity/ui",
-        "@sanity/uuid",
-        "@uiw/react-codemirror",
-        "is-hotkey-esm",
-        "json-2-csv",
-        "json5",
-        "lodash-es",
-        "quick-lru@5.1.1",
-        "react",
-        "react-fast-compare",
-        "react-rx",
-        "rxjs",
-        "sanity@5.4.0_react@19.2.3_react-dom@19.2.3__react@19.2.3_styled-components@6.3.8__react@19.2.3__react-dom@19.2.3___react@19.2.3_@dnd-kit+core@6.3.1__react@19.2.3__react-dom@19.2.3___react@19.2.3_@types+react@19.2.8_rxjs@7.8.2_@portabletext+editor@4.2.4__@portabletext+sanity-bridge@2.0.0___@types+react@19.2.8__react@19.2.3__rxjs@7.8.2__@types+react@19.2.8__xstate@5.25.1__slate@0.120.0__react-dom@19.2.3___react@19.2.3__slate-dom@0.119.0___slate@0.120.0_babel-plugin-react-compiler@1.0.0_@sanity+types@5.4.0__@types+react@19.2.8_@sanity+client@7.14.0_react-is@19.2.3_vite@7.3.1__jiti@2.6.1__picomatch@4.0.3__tsx@4.21.0_xstate@5.25.1_esbuild@0.27.2_jsdom@26.1.0_i18next@23.16.8_use-sync-external-store@1.6.0__react@19.2.3",
-        "styled-components"
       ]
     },
     "@sanity/visual-editing-types@1.1.8_@sanity+client@7.14.0_@sanity+types@5.4.0__@types+react@19.2.8_@types+react@19.2.8": {
@@ -3912,9 +3872,6 @@
         "mimic-response"
       ]
     },
-    "deeks@3.1.0": {
-      "integrity": "sha512-e7oWH1LzIdv/prMQ7pmlDlaVoL64glqzvNgkgQNgyec9ORPHrT2jaOqMtRyqJuwWjtfb6v+2rk9pmaHj+F137A=="
-    },
     "deep-extend@0.6.0": {
       "integrity": "sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA=="
     },
@@ -3939,9 +3896,6 @@
     "direction@1.0.4": {
       "integrity": "sha512-GYqKi1aH7PJXxdhTeZBFrg8vUBeKXi+cNprXsC1kpJcbcVnV9wBsrOu1cQEdG0WeQwlfHiy3XvnKfIrJ2R0NzQ==",
       "bin": true
-    },
-    "doc-path@4.1.1": {
-      "integrity": "sha512-h1ErTglQAVv2gCnOpD3sFS6uolDbOKHDU1BZq+Kl3npPqroU3dYL42lUgMfd5UimlwtRgp7C9dLGwqQ5D2HYgQ=="
     },
     "dom-helpers@5.2.1": {
       "integrity": "sha512-nRCa7CK3VTrM2NmGkIy4cbK7IZlgBE/PYMn55rrXefr5xXDP0LdtfPnblFDoVdcAfslJ7or6iqAUnx0CCGIWQA==",
@@ -4860,13 +4814,6 @@
       "integrity": "sha512-/sM3dO2FOzXjKQhJuo0Q173wf2KOo8t4I8vHy6lF9poUp7bKT0/NHE8fPX23PwfhnykfqnC2xRxOnVw5XuGIaA==",
       "bin": true
     },
-    "json-2-csv@5.5.10": {
-      "integrity": "sha512-Dep8wO3Fr5wNjQevO2Z8Y7yeee/nYSGRsi7q6zJDKEVHxXkXT+v21vxHmDX923UzmCXXkSo62HaTz6eTWzFLaw==",
-      "dependencies": [
-        "deeks",
-        "doc-path"
-      ]
-    },
     "json-lexer@1.2.0": {
       "integrity": "sha512-7otpx5UPFeSELoF8nkZPHCfywg86wOsJV0WNOaysuO7mfWj1QFp2vlqESRRCeJKBXr+tqDgHh4HgqUFKTLcifQ=="
     },
@@ -5570,9 +5517,6 @@
     "queue-microtask@1.2.3": {
       "integrity": "sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A=="
     },
-    "quick-lru@5.1.1": {
-      "integrity": "sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA=="
-    },
     "quick-lru@7.3.0": {
       "integrity": "sha512-k9lSsjl36EJdK7I06v7APZCbyGT2vMTsYSRX1Q2nbYmnkBqgUhRkAuzH08Ciotteu/PLJmIF2+tti7o3C/ts2g=="
     },
@@ -6186,7 +6130,7 @@
         "polished",
         "preferred-pm",
         "pretty-ms@7.0.1",
-        "quick-lru@7.3.0",
+        "quick-lru",
         "raf",
         "react",
         "react-dom",
@@ -6336,7 +6280,7 @@
         "polished",
         "preferred-pm",
         "pretty-ms@7.0.1",
-        "quick-lru@7.3.0",
+        "quick-lru",
         "raf",
         "react",
         "react-dom",
@@ -6486,7 +6430,7 @@
         "polished",
         "preferred-pm",
         "pretty-ms@7.0.1",
-        "quick-lru@7.3.0",
+        "quick-lru",
         "raf",
         "react",
         "react-dom",
@@ -7443,7 +7387,6 @@
         "npm:@sanity/cli@^5.4.0",
         "npm:@sanity/code-input@^6.0.4",
         "npm:@sanity/document-internationalization@^4.1.1",
-        "npm:@sanity/vision@^5.4.0",
         "npm:@types/react-dom@^19.2.3",
         "npm:@types/react@^19.2.8",
         "npm:babel-plugin-react-compiler@1",
