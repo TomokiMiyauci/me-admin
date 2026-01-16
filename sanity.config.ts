@@ -11,6 +11,7 @@ import { documentInternationalization } from "@sanity/document-internationalizat
 import { i18n, localeMap } from "./src/language.ts";
 // import { media } from "sanity-plugin-media";
 import { codeInput } from "@sanity/code-input";
+import { media } from "sanity-plugin-media";
 
 function toLanguages(map: Record<string, string>): Language[] {
   return Object.entries(map).map(([id, title]) => ({ id, title }));
@@ -23,6 +24,7 @@ export default defineConfig({
   dataset: process.env.SANITY_STUDIO_DATASET!,
   plugins: [
     structureTool(),
+    media(),
     visionTool(),
     internationalizedArray({
       languages,
