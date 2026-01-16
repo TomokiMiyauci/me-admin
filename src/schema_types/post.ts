@@ -85,7 +85,11 @@ export default defineType({
   ],
 
   preview: {
-    select: { title: "title", subtitle: "slug.current" },
+    select: {
+      title: "title",
+      subtitle: "slug.current",
+      media: "coverImage.image",
+    },
   },
 });
 
