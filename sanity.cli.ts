@@ -6,4 +6,7 @@ export default defineCliConfig({
     projectId: process.env.SANITY_STUDIO_ID,
     dataset: process.env.SANITY_STUDIO_DATASET,
   },
+  reactCompiler: {
+    target: "19",
+  },
 });
