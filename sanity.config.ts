@@ -11,7 +11,7 @@ import { i18n, localeMap } from "./src/language.ts";
 // import { media } from "sanity-plugin-media";
 import { codeInput } from "@sanity/code-input";
 import { media } from "sanity-plugin-media";
-
+import { table } from "@sanity/table";
 function toLanguages(map: Record<string, string>): Language[] {
   return Object.entries(map).map(([id, title]) => ({ id, title }));
 }
@@ -35,6 +35,7 @@ export default defineConfig({
       schemaTypes: ["post", "category", "tag", "legalDocument", "blog", "home"],
     }),
     codeInput(),
+    table(),
   ],
 
   schema: {
