@@ -5,7 +5,6 @@ import post from "./post.ts";
 import author from "./author.ts";
 import legalDocument from "./legal_document.ts";
 import blog from "./blog.ts";
-import redirect from "./redirect.ts";
 import picture from "./picture.ts";
 import home from "./home.ts";
 
@@ -17,7 +16,6 @@ export default [
   blockContent,
   legalDocument,
   blog,
-  redirect,
   picture,
   home,
 ];
